@@ -1,16 +1,15 @@
 project:
   type: website
-  output-dir: docs   # ✅ ADD THIS LINE
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://richeder7.github.io/dat303-blog/   # <-- also fix site-url
   title: "dat303-blog"
+  description: "A blog built with Quarto"
+  site-url: https://richeder7.github.io/dat303-blog
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/Richeder7
       - icon: twitter
         href: https://twitter.com
 
@@ -20,4 +19,3 @@ format:
       - cosmo
       - brand
     css: styles.css
-
