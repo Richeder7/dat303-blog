@@ -1,20 +1,21 @@
-\project:
+project:
   type: website
-  output-dir: docs   # 👈 VERY IMPORTANT: GitHub Pages will serve from /docs
+  output-dir: docs   # <-- VERY important for GitHub Pages (main branch /docs)
 
 website:
-  title: "dat303-blog"
-  description: "A blog built with Quarto for DAT303"
-  site-url: "https://richeder7.github.io/dat303-blog"   # 👈 your Pages URL
+  title: "DAT303 Blog – Richeder Osne"
+  description: "My DAT303 class blog built with Quarto and hosted on GitHub Pages."
+  site-url: "https://richeder7.github.io/dat303-blog"   # <-- your real URL
 
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+    right:
       - icon: github
-        href: "https://github.com/Richeder7/dat303-blog"
+        href: https://github.com/richeder7/dat303-blog
 
 format:
   html:
