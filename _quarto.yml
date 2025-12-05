@@ -1,20 +1,18 @@
 project:
   type: website
-  # VERY IMPORTANT for GitHub Pages:
-  output-dir: docs
+  output-dir: docs     # VERY IMPORTANT: Quarto puts the site into /docs
 
 website:
   title: "dat303-blog"
-  description: "A blog built with Quarto"
-  site-url: https://richeder7.github.io/dat303-blog/
+  description: "A blog built with Quarto for DAT303"
+  site-url: https://richeder7.github.io/dat303-blog
 
   navbar:
     right:
-      - about.qmd
+      - text: "About"
+        href: about.qmd
       - icon: github
         href: https://github.com/Richeder7/dat303-blog
-      - icon: twitter
-        href: https://twitter.com/
 
 format:
   html:
