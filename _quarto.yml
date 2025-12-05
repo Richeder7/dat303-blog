@@ -1,16 +1,20 @@
 project:
   type: website
-  output-dir: docs   # 🔑 GitHub Pages will use /docs
+  # VERY IMPORTANT for GitHub Pages:
+  output-dir: docs
 
 website:
   title: "dat303-blog"
   description: "A blog built with Quarto"
   site-url: https://richeder7.github.io/dat303-blog/
+
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/Richeder7/dat303-blog
+      - icon: twitter
+        href: https://twitter.com/
 
 format:
   html:
