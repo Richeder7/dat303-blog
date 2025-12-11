@@ -1,0 +1,32 @@
+---
+title: "What I Learned in DAT303 at DMACC"
+date: 2025-12-06
+categories: [learning, dat303, dmacc]
+---
+
+# What I Learned in DAT303 at DMACC
+
+In this post, I talk about the main things I learned throughout the DAT303 course
+at **Des Moines Area Community College (DMACC)**. Being a DMACC student has given me
+the chance to work with real tools used in the data industry, and this class was
+a big part of that experience.
+
+DAT303 introduced important concepts used in analytics, including how data is
+collected, cleaned, analyzed, and visualized. It also helped me understand how
+to communicate findings clearly through documentation.
+
+Some of the main topics we covered in this course include:
+
+- data analysis workflows  
+- Markdown and Quarto documentation  
+- creating reproducible reports  
+- publishing projects using GitHub Pages  
+- basic data visualization principles  
+- communicating results with charts and summaries  
+
+This class helped me become more comfortable with technical tools and improved
+my ability to work through data problems step-by-step. DMACC’s hands-on approach
+made the learning process easier, and working on projects like this blog has
+helped me build strong academic skills for my CIS/Data career.
+
+This post is part of my DAT303 final project blog created at DMACC.
