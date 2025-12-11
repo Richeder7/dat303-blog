@@ -1,0 +1,19 @@
+---
+title: "DAT303 Final Project Reflection"
+date: 2025-12-03
+categories: [reflection, dat303]
+---
+
+# DAT303 Final Project Reflection
+
+This post is a reflection about my experience in DAT303 and building this blog.
+
+I learned how to:
+- use Quarto to create `.qmd` files  
+- render documents to HTML  
+- publish a blog on GitHub Pages  
+- organize posts inside the `posts` folder  
+
+Creating this blog helped me practice reproducible reporting, basic Markdown,
+and working with GitHub repositories. It also showed me how data projects can
+be documented and shared online.
