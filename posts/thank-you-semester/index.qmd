@@ -1,0 +1,25 @@
+---
+title: "Thank You for This Semester"
+date: 2025-12-10
+categories: [dmacc, reflection, gratitude]
+---
+
+# Thank You for This Semester
+
+As this semester comes to an end, I want to take a moment to express my
+appreciation for everything I learned in DAT303 at **DMACC (Des Moines Area Community College)**.
+
+This course helped me grow academically and technically. I learned how to:
+
+- organize projects using Quarto  
+- publish and manage files through GitHub Pages  
+- write clear and reproducible reports  
+- work more confidently with data and documentation  
+- understand the importance of communication in data analytics  
+
+I am grateful for the support, structure, and guidance that DMACC provides.
+Being a student here has helped me stay focused, improve my skills, and continue
+moving toward my goals in the Computer Information Systems program.
+
+Thank you for this semester.  
+I look forward to continuing to grow as a DMACC student.
