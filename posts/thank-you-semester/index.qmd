@@ -1,7 +1,7 @@
 ---
 title: "Thank You for This Semester"
 date: 2025-12-10
-categories: [dmacc, reflection, gratitude]
+categories: [dmacc, reflection, gratitude, news]
 ---
 
 # Thank You for This Semester
