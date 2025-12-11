@@ -1,0 +1,20 @@
+---
+title: "My Extra DAT303 Blog Post"
+date: 2025-12-05
+categories: [dat303, extra, blog]
+---
+
+# My Extra DAT303 Blog Post
+
+This is an additional post created to complete the DAT303 final project requirement.
+The purpose of this post is to add more content to the blog and demonstrate the use
+of Quarto to organize multiple posts inside the repository.
+
+In this post, I talk about how Quarto makes blogging easier:
+
+- It automatically formats posts.
+- It organizes content inside folders.
+- It builds everything into a clean HTML website.
+- It integrates perfectly with GitHub Pages.
+
+Creating this extra post ensures my blog has at least three published entries.
