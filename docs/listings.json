@@ -2,7 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/thank-you-semester/index.html",
+      "/posts/data-learning/index.html",
+      "/posts/extra-post/index.html",
       "/posts/post-with-code/index.html",
+      "/posts/dat303-reflectiondat303-reflection/index.html",
       "/posts/welcome/index.html"
     ]
   }

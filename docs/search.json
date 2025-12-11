@@ -7,11 +7,25 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/data-learning/index.html",
+    "href": "posts/data-learning/index.html",
+    "title": "What I Learned in DAT303 at DMACC",
+    "section": "",
+    "text": "What I Learned in DAT303 at DMACC\nIn this post, I talk about the main things I learned throughout the DAT303 course at Des Moines Area Community College (DMACC). Being a DMACC student has given me the chance to work with real tools used in the data industry, and this class was a big part of that experience.\nDAT303 introduced important concepts used in analytics, including how data is collected, cleaned, analyzed, and visualized. It also helped me understand how to communicate findings clearly through documentation.\nSome of the main topics we covered in this course include:\n\ndata analysis workflows\n\nMarkdown and Quarto documentation\n\ncreating reproducible reports\n\npublishing projects using GitHub Pages\n\nbasic data visualization principles\n\ncommunicating results with charts and summaries\n\nThis class helped me become more comfortable with technical tools and improved my ability to work through data problems step-by-step. DMACC’s hands-on approach made the learning process easier, and working on projects like this blog has helped me build strong academic skills for my CIS/Data career.\nThis post is part of my DAT303 final project blog created at DMACC."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "dat303-blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 5, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 2, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Thank You for This Semester\n\n\n\ndmacc\n\nreflection\n\ngratitude\n\nnews\n\n\n\n\n\n\n\n\n\nDec 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I Learned in DAT303 at DMACC\n\n\n\nlearning\n\ndat303\n\ndmacc\n\n\n\n\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy Extra DAT303 Blog Post\n\n\n\ndat303\n\nextra\n\nblog\n\n\n\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 5, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nDAT303 Final Project Reflection\n\n\n\nreflection\n\ndat303\n\n\n\n\n\n\n\n\n\nDec 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 2, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -21,10 +35,24 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/dat303-reflectiondat303-reflection/index.html",
+    "href": "posts/dat303-reflectiondat303-reflection/index.html",
+    "title": "DAT303 Final Project Reflection",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "DAT303 Final Project Reflection\nThis post is a reflection about my experience in DAT303 and building this blog.\nI learned how to: - use Quarto to create .qmd files\n- render documents to HTML\n- publish a blog on GitHub Pages\n- organize posts inside the posts folder\nCreating this blog helped me practice reproducible reporting, basic Markdown, and working with GitHub repositories. It also showed me how data projects can be documented and shared online."
+  },
+  {
+    "objectID": "posts/extra-post/index.html",
+    "href": "posts/extra-post/index.html",
+    "title": "My Extra DAT303 Blog Post",
+    "section": "",
+    "text": "My Extra DAT303 Blog Post\nThis is an additional post created to complete the DAT303 final project requirement. The purpose of this post is to add more content to the blog and demonstrate the use of Quarto to organize multiple posts inside the repository.\nIn this post, I talk about how Quarto makes blogging easier:\n\nIt automatically formats posts.\nIt organizes content inside folders.\nIt builds everything into a clean HTML website.\nIt integrates perfectly with GitHub Pages.\n\nCreating this extra post ensures my blog has at least three published entries."
+  },
+  {
+    "objectID": "posts/thank-you-semester/index.html",
+    "href": "posts/thank-you-semester/index.html",
+    "title": "Thank You for This Semester",
+    "section": "",
+    "text": "Thank You for This Semester\nAs this semester comes to an end, I want to take a moment to express my appreciation for everything I learned in DAT303 at DMACC (Des Moines Area Community College).\nThis course helped me grow academically and technically. I learned how to:\n\norganize projects using Quarto\n\npublish and manage files through GitHub Pages\n\nwrite clear and reproducible reports\n\nwork more confidently with data and documentation\n\nunderstand the importance of communication in data analytics\n\nI am grateful for the support, structure, and guidance that DMACC provides. Being a student here has helped me stay focused, improve my skills, and continue moving toward my goals in the Computer Information Systems program.\nThank you for this semester.\nI look forward to continuing to grow as a DMACC student."
   }
 ]

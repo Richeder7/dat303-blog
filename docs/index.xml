@@ -8,9 +8,119 @@
 <title>dat303-blog</title>
 <link>https://richeder7.github.io/dat303-blog/</link>
 <atom:link href="https://richeder7.github.io/dat303-blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto for DAT303</description>
+<description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 05 Dec 2025 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>Thank You for This Semester</title>
+  <link>https://richeder7.github.io/dat303-blog/posts/thank-you-semester/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="thank-you-for-this-semester" class="level1">
+<h1>Thank You for This Semester</h1>
+<p>As this semester comes to an end, I want to take a moment to express my appreciation for everything I learned in DAT303 at <strong>DMACC (Des Moines Area Community College)</strong>.</p>
+<p>This course helped me grow academically and technically. I learned how to:</p>
+<ul>
+<li>organize projects using Quarto<br>
+</li>
+<li>publish and manage files through GitHub Pages<br>
+</li>
+<li>write clear and reproducible reports<br>
+</li>
+<li>work more confidently with data and documentation<br>
+</li>
+<li>understand the importance of communication in data analytics</li>
+</ul>
+<p>I am grateful for the support, structure, and guidance that DMACC provides. Being a student here has helped me stay focused, improve my skills, and continue moving toward my goals in the Computer Information Systems program.</p>
+<p>Thank you for this semester.<br>
+I look forward to continuing to grow as a DMACC student.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>dmacc</category>
+  <category>reflection</category>
+  <category>gratitude</category>
+  <category>news</category>
+  <guid>https://richeder7.github.io/dat303-blog/posts/thank-you-semester/</guid>
+  <pubDate>Wed, 10 Dec 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>What I Learned in DAT303 at DMACC</title>
+  <link>https://richeder7.github.io/dat303-blog/posts/data-learning/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="what-i-learned-in-dat303-at-dmacc" class="level1">
+<h1>What I Learned in DAT303 at DMACC</h1>
+<p>In this post, I talk about the main things I learned throughout the DAT303 course at <strong>Des Moines Area Community College (DMACC)</strong>. Being a DMACC student has given me the chance to work with real tools used in the data industry, and this class was a big part of that experience.</p>
+<p>DAT303 introduced important concepts used in analytics, including how data is collected, cleaned, analyzed, and visualized. It also helped me understand how to communicate findings clearly through documentation.</p>
+<p>Some of the main topics we covered in this course include:</p>
+<ul>
+<li>data analysis workflows<br>
+</li>
+<li>Markdown and Quarto documentation<br>
+</li>
+<li>creating reproducible reports<br>
+</li>
+<li>publishing projects using GitHub Pages<br>
+</li>
+<li>basic data visualization principles<br>
+</li>
+<li>communicating results with charts and summaries</li>
+</ul>
+<p>This class helped me become more comfortable with technical tools and improved my ability to work through data problems step-by-step. DMACC’s hands-on approach made the learning process easier, and working on projects like this blog has helped me build strong academic skills for my CIS/Data career.</p>
+<p>This post is part of my DAT303 final project blog created at DMACC.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>learning</category>
+  <category>dat303</category>
+  <category>dmacc</category>
+  <guid>https://richeder7.github.io/dat303-blog/posts/data-learning/</guid>
+  <pubDate>Sat, 06 Dec 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>My Extra DAT303 Blog Post</title>
+  <link>https://richeder7.github.io/dat303-blog/posts/extra-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="my-extra-dat303-blog-post" class="level1">
+<h1>My Extra DAT303 Blog Post</h1>
+<p>This is an additional post created to complete the DAT303 final project requirement. The purpose of this post is to add more content to the blog and demonstrate the use of Quarto to organize multiple posts inside the repository.</p>
+<p>In this post, I talk about how Quarto makes blogging easier:</p>
+<ul>
+<li>It automatically formats posts.</li>
+<li>It organizes content inside folders.</li>
+<li>It builds everything into a clean HTML website.</li>
+<li>It integrates perfectly with GitHub Pages.</li>
+</ul>
+<p>Creating this extra post ensures my blog has at least three published entries.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>dat303</category>
+  <category>extra</category>
+  <category>blog</category>
+  <guid>https://richeder7.github.io/dat303-blog/posts/extra-post/</guid>
+  <pubDate>Fri, 05 Dec 2025 06:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
@@ -32,6 +142,33 @@
   <guid>https://richeder7.github.io/dat303-blog/posts/post-with-code/</guid>
   <pubDate>Fri, 05 Dec 2025 06:00:00 GMT</pubDate>
   <media:content url="https://richeder7.github.io/dat303-blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>DAT303 Final Project Reflection</title>
+  <link>https://richeder7.github.io/dat303-blog/posts/dat303-reflectiondat303-reflection/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="dat303-final-project-reflection" class="level1">
+<h1>DAT303 Final Project Reflection</h1>
+<p>This post is a reflection about my experience in DAT303 and building this blog.</p>
+<p>I learned how to: - use Quarto to create <code>.qmd</code> files<br>
+- render documents to HTML<br>
+- publish a blog on GitHub Pages<br>
+- organize posts inside the <code>posts</code> folder</p>
+<p>Creating this blog helped me practice reproducible reporting, basic Markdown, and working with GitHub repositories. It also showed me how data projects can be documented and shared online.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reflection</category>
+  <category>dat303</category>
+  <guid>https://richeder7.github.io/dat303-blog/posts/dat303-reflectiondat303-reflection/</guid>
+  <pubDate>Wed, 03 Dec 2025 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome To My Blog</title>
